@@ -5,5 +5,6 @@
 ```composer require mavinoo/laravel-batch:dev-master```
 
 
+packagist: [ Click to install the last version ](https://packagist.org/packages/mavinoo/laravel-batch)
 
-Note: [ Click to install the last version ](https://github.com/mavinoo/laravelBatch)
+github: [ Click to install the last version ](https://github.com/mavinoo/laravelBatch)
